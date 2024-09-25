@@ -6,8 +6,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "nclaude";
-char pass[] = "ndago123";
+char ssid[] = "Wokwi-GUEST";
+char pass[] = "";
 
 int blue = 14;
 int green = 12;
